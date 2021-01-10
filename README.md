@@ -17,4 +17,4 @@
 ?username=RisinPlayZ&show_icons=true&hide_border=true" />
 
 
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCJHoZe4Otss4X8mlkAfdZSQ
