@@ -11,9 +11,7 @@
 <br />
 <br />
 
----
 
-    <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-tau-rust.vercel.app
 ?username=codeSTACKr&show_icons=true&hide_border=true" />
