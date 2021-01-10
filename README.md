@@ -13,8 +13,8 @@
 
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-tau-rust.vercel.app
-?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="RisinPlayZ's GitHub Stats" src="github-readme-stats-tau-rust.vercel.app
+?username=RisinPlayZ&show_icons=true&hide_border=true" />
 
 
 [youtube]: https://youtube.com/codeSTACKr
